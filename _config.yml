@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "catppuccin_latte" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,32 +113,23 @@ analytics:
 
 
 # Site Author
+# Site Author
 author:
   name             : "Junseob Yoon"
   avatar           : "/assets/ProfilePhoto.jpg"
-  bio              : "Mechanical Engineering student at Clarkson University, pursuing a minor in Robotics."
+  bio              : "Mechanical Engineering student at Clarkson University. Robotics enthusiast building drone systems and exploring computer vision."
   location         : "Potsdam, NY"
-  email            : "yjs030909@gmail.com"
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
+  email            : "yjs030909@gmail.com" # 이메일 주소 추가
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jun-yoon-8ba283236/" # 링크드인 프로필 URL
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+3156038456 # 휴대폰 번호 (클릭 시 전화 연결)
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/_junyoon_/"
 
 # Site Footer
 footer:
