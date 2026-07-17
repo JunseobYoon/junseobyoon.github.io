@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "Junseob Yoon"
   avatar           : "/assets/ProfilePhoto.jpg"
-  bio              : "Mechanical Engineering student at Clarkson University. Robotics enthusiast building drone systems and exploring computer vision."
+  bio              : "Mechanical Engineering student at Clarkson University."
   location         : "Potsdam, NY"
   email            : "yjs030909@gmail.com" # 이메일 주소 추가
   links:
