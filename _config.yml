@@ -126,7 +126,7 @@ author:
       url: "https://www.linkedin.com/in/jun-yoon-8ba283236/" # 링크드인 프로필 URL
     - label: "Phone"
       icon: "fas fa-fw fa-phone"
-      url: "tel:+3156038456 # 휴대폰 번호 (클릭 시 전화 연결)
+      url: "tel:+3156038456 # 휴대폰 번호 (클릭 시 전화 연결)"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/_junyoon_/"
