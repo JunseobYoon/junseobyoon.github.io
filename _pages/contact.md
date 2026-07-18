@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Contact"
 permalink: /contact/
 header:
