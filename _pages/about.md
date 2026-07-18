@@ -5,30 +5,30 @@ permalink: /about/
 author_profile: false
 ---
 
-I am a third-year Mechanical Engineering student with a minor in Robotics at Clarkson University.
-My academic and professional interests lie at the intersection of mechanical design, control systems, and robotic programming.
+Hi there! 
+I’m Junseob Yoon, but please feel free to call me Jun.
 
-### Education
-* **Clarkson University** (Potsdam, NY)
-  * Bachelor of Science in Mechanical Engineering (Junior)
-  * Minor in Robotics
+While my resume covers my academic facts, this page is about who I am as an engineer and a person. 
+I am a Junior studying Mechanical Engineering and Robotics at Clarkson University, driven by a deep curiosity for how things work.
 
-### Technical Skills & Software Proficiency
-* **SolidWorks:** Advanced 3D modeling, parametric design, and assembly for complex mechanical systems.
-* **MATLAB:** Core tool for numerical analysis, control system design, and algorithmic simulations.
-* **Python:** Applied in computer vision, robotics scripting, and automated data processing.
-* **AutoCAD:** Engineering graphics, 2D drafting, and structural layout design.
-* **Microsoft Excel:** Data organization, engineering calculations, and systematic performance tracking.
+### My Engineering Style & Personality
 
-### Engineering Projects & Research
+* **Deep Dive & Full Mastery:** 
+I am the type of engineer who dives deep into a problem and refuses to move on until I have a flawless understanding of the entire system. 
+People often describe me as meticulous, persistent, and highly creative when finding solutions.
+* **The Perfectionist's Edge:** 
+My biggest strength—and sometimes my challenge—is my perfectionism. 
+Once I get hooked on a technical problem, I stay completely locked in until the execution is absolute and precise.
 
-#### Wind Turbine Design Project (Academic)
-* Designed and evaluated a sail-type cross-wind axis wind turbine.
-* Conducted structural assessments, mechanical modeling, and experimental performance testing in a wind tunnel.
+### Areas of Interest
+I am fascinated by dynamic, physical systems that bridge software logic with real-world motion. 
+My primary focus areas include:
+* **Autonomous Mobility:** Unmanned Aerial Vehicles (UAVs) and advanced drone integration.
+* **Automotive Engineering:** High-performance vehicle dynamics and powertrain design.
+* **Robotics & Industrial Automation:** Intelligent robotic platforms and smart factory systems.
 
-#### Robotics & Autonomous Systems (Current Research)
-* **Automated Drone Landing System:** Developing computer vision models and autonomous precision landing algorithms for secure drone docking stations.
+### Beyond Engineering
+When I am not in the lab or at my desk, I like to keep my mind and body active through spending time in nature, especially fishing and outdoor exploration, which teaches me patience and observation. Also, you can often find me on the field playing soccer, ultimate frisbee, or tennis.
 
-### Current Focus
-I specialize in structural integrity and iterative hardware testing.
-I am currently dedicated to developing computer vision models for automated drone docking and enhancing the mobility and adaptability of robotic platforms.
+Thanks for visiting my page! 
+If you would like to discuss engineering projects, dynamic systems, or even fishing, feel free to reach out via my Contact page.
