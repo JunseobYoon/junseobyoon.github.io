@@ -4,6 +4,9 @@ title: "About Me"
 permalink: /about/
 author_profile: false
 classes: wide
+header:
+  overlay_image: /assets/IMG_5774.jpg # Resume에 썼던 근본 툴 사진을 그대로 활용하거나 다른 사진을 쓰세요!
+  overlay_filter: 0.4
 ---
 
 
