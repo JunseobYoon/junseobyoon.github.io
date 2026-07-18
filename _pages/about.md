@@ -6,21 +6,6 @@ author_profile: false
 classes: wide
 ---
 
-<style>
-  /* 테마의 유령 여백을 강제로 지우고 100% 화면을 한가운데로 맞춥니다 */
-  .page__content {
-    width: 100% !important;
-    max-width: 100% !important;
-    float: none !important;
-    margin: 0 auto !important;
-  }
-  .archive {
-    width: 100% !important;
-    max-width: 100% !important;
-    float: none !important;
-    margin: 0 auto !important;
-  }
-</style>
 
 Hi there! 
 I’m Junseob Yoon, but please feel free to call me Jun. 
