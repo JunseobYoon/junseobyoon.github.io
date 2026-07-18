@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 author_profile: false
 header:
-  overlay_image: /assets/Tools.jpeg
+  overlay_image: /assets/IMG_5772.jpg
   overlay_filter: 0.4
 ---
 
