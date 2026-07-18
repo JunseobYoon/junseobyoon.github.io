@@ -3,7 +3,7 @@ layout: single
 title: "Resume"
 permalink: /resume/
 header:
-  overlay_image: /assets/tools.jpeg
+  overlay_image: /assets/Tools.jpeg
   overlay_filter: 0.5 # 이미지 위에 반투명 검은색 필터를 씌워 글자를 잘 보이게 합니다. (0~1 사이)
 ---
 
