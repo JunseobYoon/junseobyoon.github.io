@@ -4,7 +4,7 @@ main:
   - title: "Home"
     url: /
   - title: "Resume"
-    url: /assets/ResumeF27
+    url: /resume/
   - title: "Projects"
     url: /posts/
   - title: "About"
