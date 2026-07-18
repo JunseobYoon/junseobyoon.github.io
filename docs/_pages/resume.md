@@ -1,7 +1,0 @@
----
-layout: single
-title: "Resume"
-permalink: /resume/
----
-
-<iframe src="/assets/ResumeF27.png" width="100%" height="800px" style="border: none;"></iframe>
